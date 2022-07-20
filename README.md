@@ -4,4 +4,4 @@
 - 📫 discord.gg/moonlightac
 
 
-[![Moonlights's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/moonlightanti/github-readme-stats)
+[![Moonlights's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonlightanti)](https://github.com/moonlightanti/github-readme-stats)
