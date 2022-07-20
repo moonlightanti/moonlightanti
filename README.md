@@ -9,6 +9,8 @@ Moonlight Anticheat was created on May 23 2021 from 3 friends which had the idea
 
 ⦁ Founded by 3 guys
 
+⦁ Over 200 Happy Clients
+
 ⦁ Discord: https://discord.gg/moonlightac
 
 ⦁ Youtube: https://www.youtube.com/channel/UCiIlSdVjZAymiRbOwd3faow
